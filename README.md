@@ -26,4 +26,15 @@ requiremts:
 <td>0- 3khz</td>
 </tr>
 </table>
-
+文件说明：
+----------------------------------------------------
+<pre>
+PRP_CreamPower.DsnWrk     altium designer 主工程文件</br>
+PRP_CreamPower_PCB.PrjPCB altium designer PCB工程文件
+./Schematics              原理图文件夹
+./Lib                     库文件夹
+./Lib/PA93.ckt            PA93 模拟库，由undergraduate project/apex amplifier spice lib/apexpoweropamps_0811-2/PA93.LIB
+                          改后缀名而来，因为ad10只认.ckt
+./LIb/APEXLINEAR.ckt      同上
+./Lib/PA93.SchLib         PA93symbol及封装库，下不到，自己写的
+</pre>
