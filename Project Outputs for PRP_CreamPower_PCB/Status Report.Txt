@@ -1,0 +1,10 @@
+Output: Mixed Sim
+Type  : AdvSimNetlist
+From  : Project [PRP_CreamPower_PCB.PrjPCB]
+   Generated File[PRP_CreamPower_PCB.nsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 10:14:49 On 2013/4/12
