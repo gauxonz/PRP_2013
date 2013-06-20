@@ -1,0 +1,61 @@
+Added Component: Designator=C1(1206)
+Added Component: Designator=DZ1(DO-15)
+Added Component: Designator=DZ2(DO-15)
+Added Component: Designator=P160(PIN1)
+Added Component: Designator=P-30(PIN1)
+Added Component: Designator=P_Ctr(SMB_V-RJ45)
+Added Component: Designator=P_Out(SMB_V-RJ45)
+Added Component: Designator=R1(1206)
+Added Component: Designator=R2(1206)
+Added Component: Designator=R3(1206)
+Added Component: Designator=R4(1206)
+Added Component: Designator=R5(1206)
+Added Component: Designator=U?(HDR1X12)
+Added Pin To Net: NetName=GND Pin=P_Ctr-2
+Added Pin To Net: NetName=GND Pin=P_Ctr-2
+Added Pin To Net: NetName=GND Pin=P_Ctr-2
+Added Pin To Net: NetName=GND Pin=P_Ctr-2
+Added Pin To Net: NetName=GND Pin=P_Out-1
+Added Pin To Net: NetName=GND Pin=R1-1
+Added Net: Name=GND
+Added Pin To Net: NetName=INPUTWAVE Pin=P_Ctr-1
+Added Pin To Net: NetName=INPUTWAVE Pin=R5-1
+Added Net: Name=INPUTWAVE
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=R3-2
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=U?-5
+Added Net: Name=NetC1_2
+Added Pin To Net: NetName=NetDZ1_2 Pin=P160-1
+Added Pin To Net: NetName=NetDZ1_2 Pin=U?-11
+Added Pin To Net: NetName=NetDZ1_2 Pin=U?-12
+Added Net: Name=NetDZ1_2
+Added Pin To Net: NetName=NetDZ2_1 Pin=P-30-1
+Added Pin To Net: NetName=NetDZ2_1 Pin=U?-7
+Added Pin To Net: NetName=NetDZ2_1 Pin=U?-8
+Added Net: Name=NetDZ2_1
+Added Pin To Net: NetName=NetP_Out_2 Pin=P_Out-2
+Added Pin To Net: NetName=NetP_Out_2 Pin=P_Out-2
+Added Pin To Net: NetName=NetP_Out_2 Pin=P_Out-2
+Added Pin To Net: NetName=NetP_Out_2 Pin=P_Out-2
+Added Pin To Net: NetName=NetP_Out_2 Pin=R2-2
+Added Pin To Net: NetName=NetP_Out_2 Pin=R4-2
+Added Pin To Net: NetName=NetP_Out_2 Pin=U?-6
+Added Net: Name=NetP_Out_2
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR1_2 Pin=R2-1
+Added Pin To Net: NetName=NetR1_2 Pin=U?-1
+Added Net: Name=NetR1_2
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Pin To Net: NetName=NetR3_1 Pin=U?-4
+Added Net: Name=NetR3_1
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=NetR4_1 Pin=U?-9
+Added Pin To Net: NetName=NetR4_1 Pin=U?-10
+Added Net: Name=NetR4_1
+Added Pin To Net: NetName=NetR5_2 Pin=R5-2
+Added Pin To Net: NetName=NetR5_2 Pin=U?-2
+Added Net: Name=NetR5_2
+Added Class: Name=PA93_PCBSCH
+Added Room: Name=PA93_PCBSCH

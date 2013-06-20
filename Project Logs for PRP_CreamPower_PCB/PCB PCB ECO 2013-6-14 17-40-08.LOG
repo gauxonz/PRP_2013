@@ -1,0 +1,5 @@
+Added Component: Designator=*(cooling)
+Added Pin To Net: NetName=GND Pin=*-0
+Added Pin To Net: NetName=GND Pin=*-0
+Added Member To Class: ClassName=PA93_PCBSCH Member=Component * cooling
+Added Room: Name=PA93_PCBSCH

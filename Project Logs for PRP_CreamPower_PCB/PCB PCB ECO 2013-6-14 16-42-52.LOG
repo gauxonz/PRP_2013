@@ -1,0 +1,74 @@
+Added Component: Designator=C1(1206)
+Added Component: Designator=C2(1812)
+Added Component: Designator=C3(1812)
+Added Component: Designator=C4(RB7.6-15)
+Added Component: Designator=C5(RB7.6-15)
+Added Component: Designator=DZ1(DO-15)
+Added Component: Designator=DZ2(DO-15)
+Added Component: Designator=F(PIN-W2/E2.8)
+Added Component: Designator=P_Ctr(JK128-500-2p)
+Added Component: Designator=P_Out(jk128-500-2p)
+Added Component: Designator=POWER(jk128-500-2p)
+Added Component: Designator=R1(AXIAL-0.15)
+Added Component: Designator=R2(AXIAL-0.15)
+Added Component: Designator=R3(1206)
+Added Component: Designator=R4(axial0.4)
+Added Component: Designator=R5(AXIAL-0.15)
+Added Component: Designator=U?(HDR1X12)
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=V-30 Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=V-30 Pin=C4-2
+Added Pin To Net: NetName=NetC2_1 Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=NetC2_1 Pin=F-1
+Added Pin To Net: NetName=V160 Pin=F-2
+Added Pin To Net: NetName=INPUTWAVE Pin=P_Ctr-1
+Added Pin To Net: NetName=GND Pin=P_Ctr-2
+Added Pin To Net: NetName=NetP_Out_1 Pin=P_Out-1
+Added Pin To Net: NetName=GND Pin=P_Out-2
+Added Pin To Net: NetName=V160 Pin=POWER-1
+Added Pin To Net: NetName=V-30 Pin=POWER-2
+Added Pin To Net: NetName=GND Pin=R1-1
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR1_2 Pin=R2-1
+Added Pin To Net: NetName=NetP_Out_1 Pin=R2-2
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Pin To Net: NetName=NetC1_1 Pin=R3-2
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=NetP_Out_1 Pin=R4-2
+Added Pin To Net: NetName=INPUTWAVE Pin=R5-1
+Added Pin To Net: NetName=NetR5_2 Pin=R5-2
+Added Pin To Net: NetName=NetR1_2 Pin=U?-1
+Added Pin To Net: NetName=NetR5_2 Pin=U?-2
+Added Pin To Net: NetName=NetR3_1 Pin=U?-4
+Added Pin To Net: NetName=NetC1_2 Pin=U?-5
+Added Pin To Net: NetName=NetP_Out_1 Pin=U?-6
+Added Pin To Net: NetName=V-30 Pin=U?-7
+Added Pin To Net: NetName=V-30 Pin=U?-8
+Added Pin To Net: NetName=NetR4_1 Pin=U?-9
+Added Pin To Net: NetName=NetR4_1 Pin=U?-10
+Added Pin To Net: NetName=NetC2_1 Pin=U?-11
+Added Pin To Net: NetName=NetC2_1 Pin=U?-12
+Added Member To Class: ClassName=PA93_PCBSCH Member=Component C1 Cap
+Added Member To Class: ClassName=PA93_PCBSCH Member=Component C2 Cap
+Added Member To Class: ClassName=PA93_PCBSCH Member=Component C3 Cap
+Added Member To Class: ClassName=PA93_PCBSCH Member=Component C4 Cap Pol1
+Added Member To Class: ClassName=PA93_PCBSCH Member=Component C5 Cap Pol1
+Added Member To Class: ClassName=PA93_PCBSCH Member=Component DZ1 D Zener
+Added Member To Class: ClassName=PA93_PCBSCH Member=Component DZ2 D Zener
+Added Member To Class: ClassName=PA93_PCBSCH Member=Component F Fuse Thermal
+Added Member To Class: ClassName=PA93_PCBSCH Member=Component P_Ctr Header 2
+Added Member To Class: ClassName=PA93_PCBSCH Member=Component P_Out Header 2
+Added Member To Class: ClassName=PA93_PCBSCH Member=Component POWER Header 2
+Added Member To Class: ClassName=PA93_PCBSCH Member=Component R1 Res2
+Added Member To Class: ClassName=PA93_PCBSCH Member=Component R2 Res2
+Added Member To Class: ClassName=PA93_PCBSCH Member=Component R3 Res2
+Added Member To Class: ClassName=PA93_PCBSCH Member=Component R4 Res2
+Added Member To Class: ClassName=PA93_PCBSCH Member=Component R5 Res2
+Added Member To Class: ClassName=PA93_PCBSCH Member=Component U? PA93
+Added Room: Name=PA93_PCBSCH

@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=V-30 Pin=POWER-2
+Change Component DesignItemId : Designator=POWER Old DesignItemId=Header 2 New DesignItemId=Header 3
+Change Component Footprint: Designator=POWER Old Footprint=jk128-500-2p New Footprint=jk128-500-3p
+Change Component Comment : Designator=POWER Old Comment=Header 2 New Comment=Header 3
+Added Pin To Net: NetName=GND Pin=POWER-2
+Added Pin To Net: NetName=V-30 Pin=POWER-3
+Added Room: Name=PA93_PCBSCH

@@ -2,3 +2,7 @@
 Version=1.0
 [Project1]
 ProjectPath=PRP_CreamPower_PCB.PrjPCB
+[Project2]
+ProjectPath=..\..\VE311\PCB_Project1.PrjPCB
+[Project3]
+ProjectPath=..\..\智能车\电磁组\Milestone2\PCB\Mainboard-v3.1\MainBoard-v3.0.PrjPCB

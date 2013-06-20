@@ -1,0 +1,51 @@
+Removed Pin From Net: NetName=GND Pin=P_Out-1
+Removed Pin From Net: NetName=NetP_Out_2 Pin=P_Out-2
+Removed Pin From Net: NetName=NetP_Out_2 Pin=P_Out-2
+Removed Pin From Net: NetName=NetP_Out_2 Pin=P_Out-2
+Removed Pin From Net: NetName=NetP_Out_2 Pin=P_Out-2
+Removed Member From Class: ClassName=PA93_PCBSCH Member=P160
+Removed Member From Class: ClassName=PA93_PCBSCH Member=P-30
+Change Component DesignItemId : Designator=P_Ctr Old DesignItemId=SMB New DesignItemId=Header 2
+Change Component DesignItemId : Designator=P_Out Old DesignItemId=SMB New DesignItemId=Header 2
+Change Component Footprint: Designator=R4 Old Footprint=1206 New Footprint=axial0.4
+Change Component Footprint: Designator=R1 Old Footprint=1206 New Footprint=AXIAL-0.15
+Change Component Footprint: Designator=R2 Old Footprint=1206 New Footprint=AXIAL-0.15
+Change Component Footprint: Designator=R5 Old Footprint=1206 New Footprint=AXIAL-0.15
+Change Component Footprint: Designator=P_Out Old Footprint=SMB_V-RJ45 New Footprint=jk128-500-2p
+Change Component Comment : Designator=P_Ctr Old Comment=SMB New Comment=Header 2
+Change Component Comment : Designator=P_Out Old Comment=SMB New Comment=Header 2
+Change Component Description : Designator=P_Ctr Old Description=SMB Straight Connector New Description=Header, 2-Pin
+Added Component: Designator=C2(1812)
+Added Component: Designator=C3(1812)
+Added Component: Designator=C4(RB7.6-15)
+Added Component: Designator=C5(RB7.6-15)
+Added Component: Designator=F(PIN-W2/E2.8)
+Added Component: Designator=POWER(jk128-500-2p)
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=NetP_Out_2 Pin=P_Out-1
+Added Pin To Net: NetName=GND Pin=P_Out-2
+Change Net Name : Old Net Name=NetP_Out_2 New Net Name=NetP_Out_1
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=NetC2_1 Pin=C5-1
+Added Pin To Net: NetName=NetC2_1 Pin=F-1
+Added Pin To Net: NetName=NetC2_1 Pin=U?-11
+Added Pin To Net: NetName=NetC2_1 Pin=U?-12
+Added Net: Name=NetC2_1
+Added Pin To Net: NetName=V160 Pin=F-2
+Added Pin To Net: NetName=V160 Pin=POWER-1
+Added Net: Name=V160
+Added Pin To Net: NetName=V-30 Pin=C3-2
+Added Pin To Net: NetName=V-30 Pin=C4-2
+Added Pin To Net: NetName=V-30 Pin=POWER-2
+Added Pin To Net: NetName=V-30 Pin=U?-7
+Added Pin To Net: NetName=V-30 Pin=U?-8
+Added Net: Name=V-30
+Added Member To Class: ClassName=PA93_PCBSCH Member=Component C2 Cap
+Added Member To Class: ClassName=PA93_PCBSCH Member=Component C3 Cap
+Added Member To Class: ClassName=PA93_PCBSCH Member=Component C4 Cap Pol1
+Added Member To Class: ClassName=PA93_PCBSCH Member=Component C5 Cap Pol1
+Added Member To Class: ClassName=PA93_PCBSCH Member=Component F Fuse Thermal
+Added Member To Class: ClassName=PA93_PCBSCH Member=Component POWER Header 2
